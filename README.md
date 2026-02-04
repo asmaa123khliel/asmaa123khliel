@@ -69,14 +69,14 @@ Modern Academy
 
 ## 💼 Experience
 
-### 👁️ Computer Vision Trainee — *Online Learning (Mahara Tech)*  
+### 👁️ Computer Vision Trainee — *Online Learning*  
 **Supervised by:** Ahmed Ibrahim  
 - Implemented YOLO-based detection pipelines (v3–v8) for real-time object detection tasks.  
 - Built a workplace safety system detecting employee drowsiness and triggering automated audio alerts.  
 - Developed an Automatic License Plate Recognition (ALPR) system using OpenCV and deep learning.  
 - Executed complete dataset workflows including annotation, augmentation, preprocessing, and evaluation.  
 
-### 🤖 Machine Learning & Deep Learning Trainee — *Online Learning (Mahara Tech)*  
+### 🤖 Machine Learning & Deep Learning Trainee — *Online Learning *  
 **Supervised by:** Ahmed Ibrahim & Hesham Assem  
 - Built classification models using real-world imaging datasets.  
 - Conducted comparative studies evaluating multiple ML models based on accuracy and robustness.  
@@ -86,7 +86,7 @@ Modern Academy
 - Developed complete ML pipelines including feature engineering, model training, and performance evaluation.  
 - Built applied projects comparing different ML algorithms on real datasets.  
 
-### 🐍 Python Developer — *Self-Learning*  
+### 🐍 Python Developer — *Cisco Academy*  
 - Developed a To-Do List application with persistent task management.  
 - Built a Factory Management System handling employee records, IDs, and salary updates.  
 
